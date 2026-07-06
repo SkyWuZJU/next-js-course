@@ -1,3 +1,7 @@
+<!-- hy-mt2-i18n:start -->
+[English](./README.md) | [中文](./README_zh-CN.md) | [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
