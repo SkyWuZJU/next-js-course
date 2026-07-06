@@ -1,5 +1,9 @@
 这是一个通过 [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) 工具创建的 [Next.js](https://nextjs.org/) 项目。
 
+## Next.js 是什么
+
+Next.js 是由 Vercel 开发的开源 React 框架，专为构建现代 Web 应用而设计。它提供了服务器端渲染（SSR）、静态站点生成（SSG）、增量静态再生（ISR）、API 路由、基于文件的路由，以及针对图片、字体和性能的内置优化功能。通过预先处理应用程序中的大部分渲染、路由和部署相关复杂问题，Next.js 让开发者能够以最少的配置即可打造出快速、具备良好 SEO 效能且可扩展的网站及全栈应用。
+
 ## 快速开始
 
 首先，启动开发服务器：
