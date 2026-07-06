@@ -4,6 +4,10 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## What's NextJS
+
+Next.js is an open-source React framework created by Vercel for building modern web applications. It provides features such as server-side rendering (SSR), static site generation (SSG), incremental static regeneration (ISR), API routes, file-based routing, and built-in optimizations for images, fonts, and performance. By handling much of the application's rendering, routing, and deployment complexity out of the box, Next.js enables developers to build fast, SEO-friendly, and scalable websites and full-stack applications with minimal configuration.
+
 ## Getting Started
 
 First, run the development server:
